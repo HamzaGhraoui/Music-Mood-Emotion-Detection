@@ -3,7 +3,7 @@ Music Mood Emotion Detection is a system or algorithm designed to analyze and de
 
 # How To Run The Program:
 
-## ist option
+## 1st option
 1. run all the cells in the ipynb file in order from top to bottom 
 2. while executing the cells you will create a file called "data.json" file by the help of librosa library
 3. put the "data.json" file in the same folder with the ipynb file and continue to execute the cells
